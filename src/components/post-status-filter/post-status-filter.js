@@ -1,19 +1,12 @@
 import React from 'react';
+import { Button } from 'reactstrap';
 import './post-status-filter.css';
 
 const PostStatusFilter = () => {
 	return (
 		<div className="btn-group ml-1">
-			<button
-				className="btn btn-outline-secondary"
-				type='submit'>
-				Все
-			</button>
-			<button
-				className="btn btn-outline-secondary"
-				type='submit'>
-				Понравилось
-			</button>
+			<Button color="info">Все</Button>
+			<Button outline color="secondary">Понравилось</Button>
 		</div>
 	);
 };
