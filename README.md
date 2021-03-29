@@ -12,4 +12,4 @@ You will also see any lint errors in the console.
 
 ## Description
 
-This application has implemented the standard blog functionality: search, add / remove posts, add to favorites and favorites, as well as a little filtering.
+This application has been equipped with the standard blog features: search, adding/deleting posts, favorites and the like, as well as a small filtering.
